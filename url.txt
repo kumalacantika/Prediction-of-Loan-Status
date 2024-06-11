@@ -1,0 +1,2 @@
+ini link deploy kumala :
+https://huggingface.co/spaces/kumala/Milestone2
